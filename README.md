@@ -1,4 +1,4 @@
-# tasklist
+# TaskList
 
 api feita com intuito de reforçar alguns de meus aprendizados back-end
 
